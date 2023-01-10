@@ -1,0 +1,9 @@
+﻿  152021159_UAS_PemDas.cpp
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_UAS_PemDas\152021159_UAS_PemDas\152021159_UAS_PemDas.cpp(14,8): error C2131: expression did not evaluate to a constant
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_UAS_PemDas\152021159_UAS_PemDas\152021159_UAS_PemDas.cpp(14,8): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_UAS_PemDas\152021159_UAS_PemDas\152021159_UAS_PemDas.cpp(14,8): message : see usage of 'i'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_UAS_PemDas\152021159_UAS_PemDas\152021159_UAS_PemDas.cpp(15,8): error C2131: expression did not evaluate to a constant
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_UAS_PemDas\152021159_UAS_PemDas\152021159_UAS_PemDas.cpp(15,8): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_UAS_PemDas\152021159_UAS_PemDas\152021159_UAS_PemDas.cpp(15,8): message : see usage of 'i'
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_UAS_PemDas\152021159_UAS_PemDas\152021159_UAS_PemDas.cpp(27,7): warning C4552: '>>': result of expression not used
+C:\Users\Ayala Qaulam Putri\source\repos\152021159_UAS_PemDas\152021159_UAS_PemDas\152021159_UAS_PemDas.cpp(29,7): warning C4552: '>>': result of expression not used
